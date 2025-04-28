@@ -18,6 +18,7 @@ Martin Wosnik, Atlantic Marine Energy Center (AMEC), Department of Mechanical En
 Arezoo Hasankhani, Department of Electrical and Computer Engineering, University of New Hampshire
 
 **Features**
+
 Advanced WEC Control: Sliding Mode Controller (SMC) to maximize wave energy capture.
 
 Stroke Monitoring: Tracking of DDLG stroke travel to prevent overextension under large sea states.
