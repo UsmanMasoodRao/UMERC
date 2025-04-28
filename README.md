@@ -17,3 +17,15 @@ Martin Wosnik, Atlantic Marine Energy Center (AMEC), Department of Mechanical En
 
 Arezoo Hasankhani, Department of Electrical and Computer Engineering, University of New Hampshire
 
+**Dependencies**
+
+The following packages are used in this code:
+| Package | Required? |
+| ---    | ---      |
+| MATLAB | Required for simulation |
+| Simulink | Optional for WEC-Sim validation | 
+| Simscape | Optional for WEC-Sim validation | 
+| Simscape Multibody | Optional for WEC-Sim validation |
+| [WEC-Sim](https://github.com/WEC-Sim/WEC-Sim/) | Optional for WEC-Sim validation |
+
+The code has been tested on R2022a (Windows) and R2024b (Linux), and likely works on other versions and operating systems.
