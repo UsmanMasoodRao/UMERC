@@ -3,8 +3,7 @@ This open-source codebase presents a control framework for ocean wave energy con
 
 The project focuses on advanced control design, particularly Sliding Mode Control (SMC), to maximize energy extraction while ensuring system robustness under highly variable ocean conditions. The framework supports the development of power solutions for Powering the Blue Economy (PBE) applications in remote maritime environments.
 
-Context
-This work was developed as part of research efforts by the University of New Hampshire, National Renewable Energy Laboratory (NREL), and Sandia National Laboratories, under the Atlantic Marine Energy Center (AMEC).
+
 
 Authors
 
