@@ -5,7 +5,7 @@ The project focuses on advanced control design, particularly Sliding Mode Contro
 
 
 
-Authors
+**Authors**
 
 Usman Masood, Department of Electrical and Computer Engineering, University of New Hampshire
 
