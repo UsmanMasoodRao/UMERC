@@ -17,6 +17,17 @@ Martin Wosnik, Atlantic Marine Energy Center (AMEC), Department of Mechanical En
 
 Arezoo Hasankhani, Department of Electrical and Computer Engineering, University of New Hampshire
 
+**Features**
+Advanced WEC Control: Sliding Mode Controller (SMC) to maximize wave energy capture.
+
+Stroke Monitoring: Tracking of DDLG stroke travel to prevent overextension under large sea states.
+
+Benchmarking: Comparison of SMC performance against traditional Proportional-Integral (PI) control.
+
+Wave-to-PBE System Design: Integration of mechanical capture and electrical conditioning stages.
+
+Robustness: Enhanced system performance under uncertainty and external disturbances.
+
 **Dependencies**
 
 The following packages are used in this code:
