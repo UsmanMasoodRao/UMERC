@@ -1,1 +1,20 @@
-This is an open-source codebase that aims to improve the harnessed power of a nonlinear wave energy converter using nonlinear control.
+Control Framework Design for Wave Energy Converters with Direct Drive Linear Generator-Based Power Take-Off Systems
+This open-source codebase presents a control framework for ocean wave energy converters (WECs) equipped with Direct Drive Linear Generator (DDLG)-based power take-off (PTO) systems.
+
+The project focuses on advanced control design, particularly Sliding Mode Control (SMC), to maximize energy extraction while ensuring system robustness under highly variable ocean conditions. The framework supports the development of power solutions for Powering the Blue Economy (PBE) applications in remote maritime environments.
+
+Context
+This work was developed as part of research efforts by the University of New Hampshire, National Renewable Energy Laboratory (NREL), and Sandia National Laboratories, under the Atlantic Marine Energy Center (AMEC).
+
+Authors
+
+Usman Masood, Department of Electrical and Computer Engineering, University of New Hampshire
+
+Mohamed A. Shabara, National Renewable Energy Laboratory (NREL), Golden, CO
+
+Jeff Grasberger, Sandia National Laboratories, Albuquerque, NM
+
+Martin Wosnik, Atlantic Marine Energy Center (AMEC), Department of Mechanical Engineering, University of New Hampshire
+
+Arezoo Hasankhani, Department of Electrical and Computer Engineering, University of New Hampshire
+
